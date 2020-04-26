@@ -1,0 +1,41 @@
+.agregasi {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 60px;
+}
+
+.table-data-recap {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 60px;
+}
+
+.table-data-recap table {
+    margin: 0px 70px;
+}
+
+.data-cirebon {
+    display: flex;
+    justify-content: space-around;
+}
+
+.jumbotron {
+    position: relative;
+    width : 100%;
+    background-color: #aaa;
+    background-image: url ("https://awsimages.detik.net.id/community/media/visual/2020/03/15/b1aa7813-0e7a-48c7-88c1-b071a4c2ccad_169.jpeg?w=700&q=90");
+    background-size: cover;
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0,4;
+}
+
+.banner {
+    background-image: url('bg.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+}
